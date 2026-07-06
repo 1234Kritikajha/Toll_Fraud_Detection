@@ -1,0 +1,111 @@
+id,name,state,latitude,longitude,total_lanes,active_lanes,risk_score
+1,Noida Toll Plaza,Uttar Pradesh,28.508708,77.366502,4,3,0
+2,DND Flyway Toll Plaza,Delhi,28.595272,77.336749,2,2,22
+3,Kherki Daula Gateway Toll Plaza,Haryana,28.298782,77.061257,2,2,18
+4,Gurgaon Toll Plaza,Haryana,28.457191,76.99527,8,6,73
+5,Tughlaqabad Toll Plaza,Delhi,28.549702,77.24644,3,2,40
+6,Sonipat Expressway Toll Plaza,Haryana,28.954839,76.945475,4,3,17
+7,Fatehpur Sikri Gateway Toll Plaza,Uttar Pradesh,27.193508,77.639972,6,4,13
+8,Agra Expressway Toll Plaza,Uttar Pradesh,27.238372,77.985962,3,2,25
+9,Mathura,Uttar Pradesh,27.535691,77.750635,3,3,40
+10,Ghaziabad Outer Toll Plaza,Uttar Pradesh,28.68771,77.410373,4,3,87
+11,Faridabad Toll Plaza,Haryana,28.478765,77.341486,8,6,100
+12,Panchkula,Haryana,30.656144,76.840713,10,8,47
+13,Chandigarh Derabassi,Punjab,30.704856,76.76416,3,3,85
+14,Jalandhar Bypass Bypass Toll Plaza,Punjab,31.288839,75.532757,8,7,66
+15,Ludhiana Doraha Toll Plaza,Punjab,30.762877,76.013549,10,8,83
+16,Kharar,Punjab,30.764198,76.615236,10,8,31
+17,Delhi–Meerut Toll Plaza,Uttar Pradesh,28.959919,77.562572,3,2,1
+18,Meerut,Uttar Pradesh,28.928455,77.651597,10,8,29
+19,Panipat Expressway Toll Plaza,Haryana,29.403342,76.980888,4,4,25
+20,Ambala,Haryana,30.413315,76.809074,8,7,85
+21,Hissar,Haryana,29.086848,75.710562,6,4,30
+22,Ajmer Ring,Rajasthan,26.960502,74.661914,8,7,17
+23,Bhilwara Bypass Toll Plaza,Rajasthan,25.407667,74.641226,3,2,44
+24,Jaipur Ring Toll Plaza,Rajasthan,26.98456,75.854589,2,2,27
+25,Kota Toll Plaza,Rajasthan,25.254656,75.892596,4,3,75
+26,Udaipur Toll Plaza,Rajasthan,24.518705,73.709758,2,2,45
+27,Banswara,Rajasthan,23.57556,74.501496,3,2,100
+28,Ahmedabad,Gujarat,23.151298,72.702626,10,8,46
+29,Vadodara Toll Plaza,Gujarat,22.386224,73.20498,6,5,30
+30,Surat Toll Plaza,Gujarat,21.125952,72.805194,8,6,12
+31,Rajkot Toll Plaza,Gujarat,22.234359,70.822976,3,2,23
+32,Bharuch Gateway Toll Plaza,Gujarat,21.710265,73.002556,6,4,74
+33,Pune Expressway Toll Plaza,Maharashtra,18.532194,73.81888,6,5,50
+34,Mumbai–Pune Expressway Toll Plaza,Maharashtra,19.125437,72.856688,6,5,100
+35,Nagpur Toll Plaza,Maharashtra,21.169553,79.111389,2,2,5
+36,Aurangabad Toll Plaza,Maharashtra,19.826654,75.348806,3,2,61
+37,Kolhapur Toll Plaza,Maharashtra,16.755918,74.175062,8,5,97
+38,Bengaluru Toll Plaza,Karnataka,13.046639,77.662819,3,2,100
+39,Mysuru,Karnataka,12.354144,76.703791,3,2,49
+40,Hubli Gateway Toll Plaza,Karnataka,15.33034,75.154455,10,9,25
+41,Hyderabad Gateway Toll Plaza,Telangana,17.382867,78.437084,3,3,33
+42,Warangal Toll Plaza,Telangana,17.897753,79.564177,2,2,66
+43,Vijayawada Toll Plaza,Andhra Pradesh,16.435301,80.649253,3,2,15
+44,Visakhapatnam Expressway Toll Plaza,Andhra Pradesh,17.671404,83.289155,8,6,72
+45,Chennai Outer Ring Bypass Toll Plaza,Tamil Nadu,13.015817,80.29588,8,6,90
+46,Coimbatore,Tamil Nadu,11.051391,76.91399,6,4,26
+47,Madurai Toll Plaza,Tamil Nadu,9.895788,78.160098,2,1,42
+48,Kochi Toll Plaza,Kerala,9.862922,76.221405,4,3,52
+49,Kozhikode Gateway Toll Plaza,Kerala,11.237924,75.725639,8,7,84
+50,Bhopal,Madhya Pradesh,23.181152,77.463337,4,4,51
+51,Indore Toll Plaza,Madhya Pradesh,22.658069,75.794826,8,6,11
+52,Raipur,Chhattisgarh,21.286218,81.582176,10,9,30
+53,Jabalpur Toll Plaza,Madhya Pradesh,23.246354,80.263777,2,2,79
+54,Ranchi,Jharkhand,23.264667,85.352979,10,9,75
+55,Durgapur Toll Plaza,West Bengal,23.550269,87.28243,2,1,100
+56,Kharagpur Toll Plaza,West Bengal,22.342294,87.378535,8,6,46
+57,Bhubaneswar Toll Plaza,Odisha,20.265421,85.888337,2,2,96
+58,Cuttack Service Toll Plaza,Odisha,20.490009,85.858189,8,7,23
+59,Guwahati,Assam,26.089229,91.804981,3,3,51
+60,Patna Gateway Toll Plaza,Bihar,25.518066,85.17545,4,3,57
+61,Siliguri,West Bengal,26.77652,88.401289,10,7,69
+62,Noida Toll Plaza,Uttar Pradesh,28.441989,77.493154,6,4,17
+63,DND Flyway,Delhi,28.490786,77.224901,4,3,23
+64,Kherki Daula,Haryana,28.366437,77.044349,8,6,0
+65,Gurgaon,Haryana,28.398571,77.114005,4,3,65
+66,Tughlaqabad Ring Toll Plaza,Delhi,28.554567,77.242188,8,7,19
+67,Sonipat Service Toll Plaza,Haryana,28.970413,76.937102,6,4,17
+68,Fatehpur Sikri Expressway Toll Plaza,Uttar Pradesh,27.235109,77.738712,10,7,17
+69,Agra Expressway Outer Toll Plaza,Uttar Pradesh,27.244023,78.027805,10,9,47
+70,Mathura Toll Plaza,Uttar Pradesh,27.461486,77.658343,6,5,45
+71,Ghaziabad Service Toll Plaza,Uttar Pradesh,28.653271,77.502458,10,8,71
+72,Faridabad Ring Toll Plaza,Haryana,28.377052,77.32547,2,1,96
+73,Panchkula,Haryana,30.727066,76.83156,6,5,46
+74,Chandigarh Derabassi Outer Toll Plaza,Punjab,30.696998,76.793573,10,7,62
+75,Jalandhar Bypass Bypass Toll Plaza,Punjab,31.352217,75.598082,2,2,80
+76,Ludhiana Doraha Ring Toll Plaza,Punjab,30.732667,76.00105,3,2,82
+77,Kharar Bypass Toll Plaza,Punjab,30.780958,76.540653,6,5,21
+78,Delhi–Meerut Toll Plaza,Uttar Pradesh,29.013417,77.4821,3,2,21
+79,Meerut Toll Plaza,Uttar Pradesh,29.028547,77.661015,10,8,28
+80,Panipat Service Toll Plaza,Haryana,29.454795,76.925417,3,3,19
+81,Ambala,Haryana,30.393272,76.852006,6,5,84
+82,Hissar,Haryana,29.201891,75.72866,3,3,22
+83,Ajmer Ring Ring Toll Plaza,Rajasthan,26.925284,74.674378,4,3,6
+84,Bhilwara,Rajasthan,25.311279,74.63038,10,7,28
+85,Jaipur Ring Bypass Toll Plaza,Rajasthan,26.974884,75.719892,3,2,34
+86,Kota Toll Plaza,Rajasthan,25.140232,75.818379,4,3,81
+87,Udaipur,Rajasthan,24.638263,73.694316,8,7,28
+88,Banswara Ring Toll Plaza,Rajasthan,23.546317,74.500839,4,3,100
+89,Ahmedabad,Gujarat,23.116603,72.641381,8,7,39
+90,Vadodara Ring Toll Plaza,Gujarat,22.296734,73.105644,4,3,41
+91,Surat,Gujarat,21.116407,72.825882,3,3,11
+92,Rajkot Toll Plaza,Gujarat,22.317703,70.82808,2,2,26
+93,Bharuch,Gujarat,21.636046,73.018657,3,2,80
+94,Pune Expressway Expressway Toll Plaza,Maharashtra,18.560322,73.913108,4,3,59
+95,Mumbai–Pune Toll Plaza,Maharashtra,19.106307,72.959985,4,3,86
+96,Nagpur Toll Plaza,Maharashtra,21.185677,79.159938,3,3,14
+97,Aurangabad,Maharashtra,19.816195,75.370113,8,7,67
+98,Kolhapur Toll Plaza,Maharashtra,16.738704,74.189846,8,7,99
+99,Bengaluru,Karnataka,13.045955,77.531896,2,2,100
+100,Mysuru Toll Plaza,Karnataka,12.279265,76.673802,2,2,63
+101,Hubli Toll Plaza,Karnataka,15.301004,75.166597,10,8,11
+102,Hyderabad Toll Plaza,Telangana,17.360553,78.47524,4,3,35
+103,Warangal,Telangana,18.023932,79.645573,2,2,61
+104,Vijayawada Outer Toll Plaza,Andhra Pradesh,16.539369,80.637678,10,8,33
+105,Visakhapatnam Gateway Toll Plaza,Andhra Pradesh,17.736112,83.224608,6,5,79
+106,Chennai Outer Ring,Tamil Nadu,13.045643,80.326974,2,1,96
+107,Coimbatore Toll Plaza,Tamil Nadu,11.027976,76.98271,4,3,33
+108,Madurai Service Toll Plaza,Tamil Nadu,9.923208,78.096572,4,3,51
+109,Kochi Bypass Toll Plaza,Kerala,9.992017,76.276227,8,7,43
+110,Kozhikode,Kerala,11.243828,75.789228,3,2,85

@@ -1,0 +1,33 @@
+Using CPU. Note: This module is much faster with a GPU.
+INFO:     Started server process [12340]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+Loading YOLO model from: C:\Users\preet\Desktop\Tool_Detection\backend\models\best.pt
+Initializing EasyOCR reader...
+Initializing database tables...
+PostgreSQL initialization failed: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+Falling back to SQLite local database for runtime testing...
+SQLite fallback database initialized successfully.
+INFO:     127.0.0.1:51986 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51990 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64933 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49560 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49503 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65420 - "WebSocket /ws/live" [accepted]
+INFO:     connection closed
+INFO:     127.0.0.1:52299 - "WebSocket /ws/live" [accepted]
+INFO:     connection open
+INFO:     connection closed
+INFO:     127.0.0.1:55899 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55899 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65210 - "GET /api/map/markers HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58985 - "GET /api/cases HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60570 - "GET /api/alerts HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60570 - "GET /api/system/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65273 - "GET /api/dashboard HTTP/1.1" 200 OK

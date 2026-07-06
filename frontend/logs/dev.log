@@ -1,0 +1,26 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m5482[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m7:05:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/FraudDetection.tsx[22m
+[2m7:05:33 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/FraudDetection.tsx[22m
+[2m7:05:56 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/types/index.ts[22m
+[2m7:06:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m7:07:16 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m7:07:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/tables/HighRiskCasesTable.tsx, /src/index.css[22m
+[2m7:07:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/tables/HighRiskCasesTable.tsx, /src/index.css[22m
+[2m7:09:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/FraudDetection.tsx, /src/index.css[22m
+[2m7:10:19 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/FraudDetection.tsx, /src/index.css[22m
+[2m7:10:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LiveMonitoring.tsx, /src/index.css[22m
+[2m7:11:35 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LiveMonitoring.tsx, /src/index.css[22m
+[2m7:11:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Alerts.tsx, /src/index.css[22m
+[2m7:12:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Alerts.tsx, /src/index.css[22m
+[2m7:13:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Investigation.tsx, /src/index.css[22m
+[2m7:13:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Investigation.tsx, /src/index.css[22m
+[2m7:14:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MapsAnalytics.tsx, /src/index.css[22m
+[2m7:14:58 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MapsAnalytics.tsx, /src/index.css[22m
+[2m7:15:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/VehicleIntelligence.tsx, /src/index.css[22m
+[2m7:16:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/VehicleIntelligence.tsx, /src/index.css[22m
+[2m7:16:40 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SystemHealth.tsx, /src/index.css[22m
+[2m7:17:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/SystemHealth.tsx, /src/index.css[22m
